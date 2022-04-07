@@ -1,4 +1,4 @@
-- Formação Acadêmica PUC ( Campinas )
+- Formação Acadêmica PUC - Campinas
 - Analista de Sistemas e Professor TI
 - Tecnologia Adobe IX/UX
 - Design Web
